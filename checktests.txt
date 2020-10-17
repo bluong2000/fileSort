@@ -1,0 +1,28 @@
+Testcase 7 passed
+print out a warning
+
+Testcase 8 passed
+print out a warning
+
+Testcase 9 passed
+print out a warning bc only one token to sort
+
+
+PASSED ALL BASIC TEST CASES
+Test case 14
+
+
+Test case 15: passed ouput 
+1
+2
+
+
+Test case 16 passed
+
+itest 1 passed
+
+itest 2
+
+advanced test 0 passed
+
+advanced test 1 failes

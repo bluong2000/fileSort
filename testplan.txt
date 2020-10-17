@@ -1,0 +1,50 @@
+ 123, 54546,78557,2323, 10, 33,2, 234,  123, 999, 
+
+testing for correct numerical order
+
+a,d,s,g ,g, h, t, i, t, s ,x, z, b ,o
+
+testing for correct aplhabetical order
+
+,88, 2, 1, 55, 66, 57, 11, -3, 
+
+testing negative numbers and an empty token for the initial comma
+
+tide,worse,wife,quickly,trouble,possible,nearly,total,bark,fighting,stay,nearer,page,completely,pour,oldest,bottle,far,clear,any,atom,atmosphere,direct,mice,parent,listen,promised,luck,longer,spent,rapidly,space,plus,consonant,direction,finger,article,grown,prevent,warm,tool,doubt,voyage,which,unless,whole,all,mainly,darkness,play,felt,she,little,they,series,motion,by,forget,five,eat,park,fifth,break,circus,exactly,floor,sentence,differ,obtain,feathers,forgotten,island,near,football,quarter,being,handle,south,said,sides,refused,person,command,burst,whistle,facing,rock,method,missing,gradually,rod,map,comfortable,wooden,engine,letter,sand,mind,growth,excited,attention,cent,plenty,ago,at,alive,diagram,farmer,goes,adult,location,ill,claws,west,stretch,held,birthday,sort,aid,sleep,became,song,deeply,kill,truck,smallest,simple,push,congress,donkey,making,wish,tall,visit,clean,printed,tube,needed,interior,steady,large,load,worth,shout,law,heavy,grabbed,job,cold,stove,solar,whose,course,saved,program,complete,service,soap,water,troops,fox,brush,scientist,crack,thee,molecular,opposite,situation,might,make,brought,run,after,treated,support,grass,breakfast,huge,straight,butter,block,jet,next,catch,shore,hardly,locate,today,bus,tonight,club,hearing,climate,circle,wonder
+on,scientific,alone,into,winter,where,play,highway,very,firm,plastic,strip,drink,state,suggest,aboard,loose,fear,company,palace,two,herd,fierce,mouse,warn,car,join,are,smaller,needs,therefore,swim,hand,rubber,fully,silver,cookies,jar,hide,cowboy,cup,product,dug,poet,bone,busy,sleep,magic,unusual,nearer,table,invented,get,surface,be,vote,nearly,lady,how,garage,previous,opinion,cast,to,bent,pain,let,popular,roar,battle,chemical,having,neighbor,snow,calm,independent,river,trail,general,region,population,became,mind,slight,taken,elephant,slip,luck,respect,thirty,travel,invented,teacher,ocean,upward,mouth,your,birthday,base,song,taught,roar,consist,chose,where,just,friend,fox,certain,drop,soldier,taken,leaf,command,down,higher,running,pair,elephant,these,pig,shut,lost,forgotten,plus,pictured,owner,pure,base,already,day,club,horn,previous,aside,yellow,bow,lead,electricity,shadow,near,wrong,mighty,depend,neighbor,mice,with,powerful,maybe,combine,came,lips,instance,before,cake,finally,industrial,had,tightly,straight,connected,familiar,row,there,ever,hollow,minute,happy,enjoy,written,dish,end,toward,particles,start,tight,use,pick,flies,balloon,music,rabbit,straw,thus,animal,spite,here,tie,crew,person,congress,rough,has,curious,horse,, ,
+
+testing strings along with repeated commas
+
+8, 7, 6, 5, 4, 3, 2, 1
+
+testing descending sorted numbers
+
+1, 2, , 3, 4, 5, 6, 7, 8,, 0
+
+testing ascending numbers paired with repeated commas
+
+az,ab,pd,aa,xb,bttt,jkkl
+
+testing strings with repeated letters
+
+12,	34		,78,
+54, 90 ,
+
+
+testing the new lines and tab spacings
+
+-11, 44, 46, 1 ,2, 0 ,, 5
+
+testing negative numbers, 0s and repeated commas
+
+sdakfnasdfn ,,,,,,    , wefdfqbfchlidnbck, adfdaf, dnakidah,
+
+testing repeated commas
+
+a, d, x,f,g,h,j,k,l,z,x,c,v,b,n,m,q,w,e,r,t,y,u,i,o,p
+
+testing the whole alphabet
+
+
+
+
